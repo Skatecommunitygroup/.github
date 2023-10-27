@@ -1,0 +1,2 @@
+# .github
+Skate Community Group 
